@@ -23,6 +23,14 @@ namespace cs06_paskaita
 
             Console.WriteLine($"4: {(res1 + res2 + res3) / 3}");
 
+            Console.WriteLine("zemes skritulio plotas");
+
+            double r = 6371;
+
+            double res1 = 4 * Math.PI * Math.Pow(6371, 2);
+
+            Console.WriteLine(res1);
+
         }
     }
 }
