@@ -6,13 +6,15 @@ namespace cs06_paskaita
     {
         static void Main(string[] args)
         {
+
             //Artūras
             double res2 = 0;
 
             res2 = (double)(4.0 / 3 * Math.PI * 6371 * 6371 * 6371);
 
             Console.WriteLine(res2);
-            
+
+
             //Julius
             Console.WriteLine("zemes skritulio plotas");
 
