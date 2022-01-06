@@ -13,6 +13,17 @@ namespace cs06_paskaita
             Console.WriteLine(res2);
 
 
+<<<<<<< Updated upstream
+=======
+            //Julius
+            Console.WriteLine("Zemes Skritulio Plotas");
+
+            double r = 6371;
+
+            double res1 = 4 * Math.PI * Math.Pow(6371, 2);
+
+            Console.WriteLine(res1);
+>>>>>>> Stashed changes
 
             double a = 10;
             double b = 15;
