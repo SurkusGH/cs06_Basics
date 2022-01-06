@@ -16,7 +16,7 @@ namespace cs06_paskaita
 
 
             //Julius
-            Console.WriteLine("zemes skritulio plotas");
+            Console.WriteLine("zemes skritulio plotas - laba diena diena");
 
             double r = 6371;
 
